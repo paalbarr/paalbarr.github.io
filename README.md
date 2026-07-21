@@ -1,4 +1,3 @@
 ## Project definition
 
-This is a small site based in static content 
-Based on [Craftivo] (https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/)
+This is a small site with static content based on [Craftivo] (https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/)
